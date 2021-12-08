@@ -6,7 +6,7 @@ Groovium is a platform inspired by Medium where individiuals can read and write 
 ## Features
 1. [Features](https://github.com/rollingferret/groovium/wiki/MVP-Feature-List)
 2. [Data Schema](https://github.com/rollingferret/groovium/wiki/Database-Schema)
-3. [Frontend Routes Document](https://github.com/wiki/Client-Side-Routes)
+3. [Frontend Routes Document](https://github.com/Jguevara1208/groupProject/wiki/Client-Side-Routes)
 4. [API Routes](https://github.com/rollingferret/groovium/wiki/API-Endpoints)
 
 ## Installation Instructions
