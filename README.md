@@ -4,7 +4,7 @@
 Groovium is a platform inspired by Medium where individiuals can read and write stories while also having the ability to share their feedback/ideas on stories posted to the platform. Groovium allows a user to view stories written about specific topics while also being able to engage with other users. A user can view another user's profile page where they can read, comment, like, and bookmark stories written by that user and also follow or unfollow that user.
 
 ## Features
-1. [Features](https://github.com/]rollingferret/groovium/wiki/MVP-Feature-List)
+1. [Features](https://github.com/rollingferret/groovium/wiki/MVP-Feature-List)
 2. [Data Schema](https://github.com/rollingferret/groovium/wiki/Database-Schema)
 3. [Frontend Routes Document](https://github.com/wiki/Client-Side-Routes)
 4. [API Routes](https://github.com/rollingferret/groovium/wiki/API-Endpoints)
