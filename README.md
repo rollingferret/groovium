@@ -1,5 +1,5 @@
 # Groovium
-[Groovium website link](https://groovium.herokuapp.com/users)
+[Groovium website link](https://groovium.herokuapp.com)
 
 Groovium is a platform inspired by Medium where individiuals can read and write stories while also having the ability to share their feedback/ideas on stories posted to the platform. Groovium allows a user to view stories written about specific topics while also being able to engage with other users. A user can view another user's profile page where they can read, comment, like, and bookmark stories written by that user and also follow or unfollow that user.
 
