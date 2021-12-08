@@ -34,4 +34,3 @@ Groovium is a platform inspired by Medium where individiuals can read and write 
 - [ ] Connect to other social media apps
 
 ******************
-TEST
