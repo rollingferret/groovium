@@ -28,7 +28,7 @@ Groovium is a platform inspired by Medium where individiuals can read and write 
 ![Screenshot (114)](https://user-images.githubusercontent.com/79879124/145476063-54e4017e-a0dd-4fd0-8c91-b2f825d05780.png)
 
 ### Viewing Topics Page
-![Screenshot (117)](https://user-images.githubusercontent.com/79879124/145478088-3b2f440f-d254-4d9d-80be-3456fafb0a6d.png)
+![Screenshot (116)](https://user-images.githubusercontent.com/79879124/145480693-0e2b84a3-e579-4e96-b2b0-82fb5b761814.png)
 
 ### Profile Page Stories and Bookmarked Stories
 ![Screenshot (118)](https://user-images.githubusercontent.com/79879124/145478045-0905cea4-076f-49cf-b81f-466e487ff2d1.png)
